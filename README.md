@@ -18,6 +18,7 @@ I am a junior web developer. I specialize in JavaScript, HTML5, CSS3. I have als
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Development 
+  
 
   
 
