@@ -1,6 +1,7 @@
+![Web Developer](https://media-exp1.licdn.com/dms/image/C4E16AQG-ST9-ThMYMw/profile-displaybackgroundimage-shrink_350_1400/0/1645052152168?e=1651104000&v=beta&t=plOvedNkGdyv1mxgtggz0vJD80w9Q71eoUIeP3ef8SA)
+
 ### Hi there 👋, I'm Tamim
 #### Web Developer
-![Web Developer](https://media-exp1.licdn.com/dms/image/C4E16AQG-ST9-ThMYMw/profile-displaybackgroundimage-shrink_350_1400/0/1645052152168?e=1651104000&v=beta&t=plOvedNkGdyv1mxgtggz0vJD80w9Q71eoUIeP3ef8SA)
 
 I am a junior web developer. I specialize in JavaScript, HTML5, CSS3. I have also extensive knowledge and skills in React.js, Node.js, Express.js. 
 ##### Find me elsewhere: 👇
