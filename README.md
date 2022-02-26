@@ -23,7 +23,7 @@ I am a junior web developer. I specialize in JavaScript, HTML5, CSS3. I have als
   
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tamim-uddin)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamim-uddin)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -33,7 +33,9 @@ I am a junior web developer. I specialize in JavaScript, HTML5, CSS3. I have als
 
 ![GitHub metrics](https://metrics.lecoq.io/Tamim-uddin)  
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tamim-uddin)](https://github.com/ryo-ma/github-profile-trophy)
+ 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Tamim-uddin)  
-
+  
 ![Profile views](https://gpvc.arturio.dev/Tamim-uddin)  
 
