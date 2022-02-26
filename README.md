@@ -4,6 +4,8 @@
 
 I am a junior web developer. I specialize in JavaScript, HTML5, CSS3. I have also extensive knowledge and skills in React.js, Node.js, Express.js. Contact me: 👇
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tamim-uddin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-tamim1/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/taamemeR)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_hey_b_i_t_c_h_/)
+
 Skills: REACT / JS / HTML5 / CSS3/ Node.js/ Express.js
 
 - 🔭 I’m currently working on Sunstore Sunglasses 
@@ -11,8 +13,6 @@ Skills: REACT / JS / HTML5 / CSS3/ Node.js/ Express.js
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Development 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tamim-uddin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-tamim1/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/taamemeR)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_hey_b_i_t_c_h_/)  
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
