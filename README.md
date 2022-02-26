@@ -2,7 +2,8 @@
 #### Web Developer
 ![Web Developer](https://media-exp1.licdn.com/dms/image/C4E16AQG-ST9-ThMYMw/profile-displaybackgroundimage-shrink_350_1400/0/1645052152168?e=1651104000&v=beta&t=plOvedNkGdyv1mxgtggz0vJD80w9Q71eoUIeP3ef8SA)
 
-I am a junior web developer. I specialize in JavaScript, HTML5, CSS3. I have also extensive knowledge and skills in React.js, Node.js, Express.js. Contact me: 👇
+I am a junior web developer. I specialize in JavaScript, HTML5, CSS3. I have also extensive knowledge and skills in React.js, Node.js, Express.js. 
+##### Find me elsewhere: 👇
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tamim-uddin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-tamim1/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/taamemeR)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_hey_b_i_t_c_h_/)
 
